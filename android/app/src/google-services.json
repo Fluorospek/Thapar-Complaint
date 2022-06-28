@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795241671849",
+    "project_id": "elc-activity-e3940",
+    "storage_bucket": "elc-activity-e3940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795241671849:android:bf58252eaf946f44628db8",
+        "android_client_info": {
+          "package_name": "com.example.thapar_complaint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795241671849-aijajrji59hbfa0iaa738ms94iqskkd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABMoThMkVhD0bgcXGkMQftzqmqWnk-zHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795241671849-aijajrji59hbfa0iaa738ms94iqskkd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
